@@ -1,0 +1,10 @@
+{
+  "title.adaptivebrightness.config": "Adaptive Brightness",
+  "category.adaptivebrightness.general": "General",
+  "option.adaptivebrightness.max_gamma": "Maximum Brightness",
+  "option.adaptivebrightness.max_gamma.tooltip": "The maximum brightness value the mod will set",
+  "option.adaptivebrightness.min_gamma": "Minimum Brightness",
+  "option.adaptivebrightness.min_gamma.tooltip": "The minimum brightness value the mod will set",
+  "option.adaptivebrightness.disabled": "Disabled",
+  "option.adaptivebrightness.disabled.tooltip": "Disables the mod and makes brightness fixed again"
+}
