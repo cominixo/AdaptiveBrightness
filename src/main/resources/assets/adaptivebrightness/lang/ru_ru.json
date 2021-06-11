@@ -1,0 +1,10 @@
+{
+  "title.adaptivebrightness.config": "Adaptive Brightness",
+  "category.adaptivebrightness.general": "Основные",
+  "option.adaptivebrightness.max_gamma": "Максимальная яркость",
+  "option.adaptivebrightness.max_gamma.tooltip": "Максимальное значение яркости, устанавливаемое модом",
+  "option.adaptivebrightness.min_gamma": "Минимальная яркость",
+  "option.adaptivebrightness.min_gamma.tooltip": "Минимальное значение яркости, устанавливаемое модом",
+  "option.adaptivebrightness.disabled": "Отключено",
+  "option.adaptivebrightness.disabled.tooltip": "Отключает мод и возвращает фиксированную яркость"
+}
