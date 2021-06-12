@@ -1,0 +1,10 @@
+{
+  "title.adaptivebrightness.config": "自适应亮度",
+  "category.adaptivebrightness.general": "常规",
+  "option.adaptivebrightness.max_gamma": "最大亮度",
+  "option.adaptivebrightness.max_gamma.tooltip": "模组设置的最大亮度",
+  "option.adaptivebrightness.min_gamma": "最小亮度",
+  "option.adaptivebrightness.min_gamma.tooltip": "模组设置的最小亮度",
+  "option.adaptivebrightness.disabled": "已禁用",
+  "option.adaptivebrightness.disabled.tooltip": "禁用模组并用回原版的固定亮度"
+}
