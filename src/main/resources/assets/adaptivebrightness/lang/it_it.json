@@ -1,1 +1,10 @@
-
+{
+  "title.adaptivebrightness.config": "Adaptive Brightness",
+  "category.adaptivebrightness.general": "Generali",
+  "option.adaptivebrightness.max_gamma": "Luminosità Massima",
+  "option.adaptivebrightness.max_gamma.tooltip": "Il valore massimo di luminosità che la mod imposterà",
+  "option.adaptivebrightness.min_gamma": "Luminosità Minima",
+  "option.adaptivebrightness.min_gamma.tooltip": "Il valore minimo di luminosità che la mod imposterà",
+  "option.adaptivebrightness.disabled": "Disabilitato",
+  "option.adaptivebrightness.disabled.tooltip": "Disabilita la mod e reimposta la luminosità al suo valore fisso"
+}
